@@ -229,7 +229,7 @@ user.info = function(options, callback) {
 };
 
 /**
- * set
+ * change_password
  */
 
 user.change_password = function(options, callback) {
@@ -275,6 +275,6 @@ user.change_password = function(options, callback) {
  * stats
  */
 
-user.stats= function(options, callback) {
+user.stats = function(options, callback) {
   //...
 };
