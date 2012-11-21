@@ -1,0 +1,23 @@
+{
+  "name": "component-user",
+  "repo": "apily/component-user",
+  "description": "Component by Apily to manage user credential",
+  "version": "0.0.1",
+  "keywords": [
+    "http",
+    "ajax",
+    "request",
+    "user",
+    "login",
+    "credential"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+    "apily/request": "*",
+    "component/querystring": "*",
+    "heavyk/format": "*"
+  },
+  "license": "MIT"
+}
