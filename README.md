@@ -1,6 +1,6 @@
-#component-user
+#client-user
 
-Component user
+Client User
 
 ### License
 
