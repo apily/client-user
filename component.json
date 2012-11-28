@@ -1,6 +1,6 @@
 {
   "name": "component-user",
-  "repo": "apily/component-user",
+  "repo": "apily/client-user",
   "description": "Component by Apily to manage user credential",
   "version": "0.0.1",
   "keywords": [
